@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BillMega21
-- 👀 I’m interested in Mechatronics and Robotics, especially in Building the Machines' "Brain" 
-- 🌱 I’m currently self-learning Coding, including some Machine Learning 
-- 💞️ I’m looking to collaborate on anything related to my field if possible as I am very open to new knowledge
+- 👋 Hi, I’m Kiet Le
+- 👀 I’m interested in Mechatronics and Robotics, especially in Building the Machines' "Brain" for hardware interfacing
+- 🌱 I’m currently self-learning Coding, including some AI-related material
+- 💞️ I’m looking to collaborate on anything related to my field if possible as I am very open to learning
 - 📫 For contacting, my mail is tukilp21@gmail.com
 
 <!---
